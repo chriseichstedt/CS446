@@ -1,0 +1,43 @@
+0.000001 - Simulator program starting
+0.000862 - Process 1: start processing action
+0.055869 - Process 1: end processing action
+0.055873 - Process 1: allocating memory
+0.075875 - Process 1: memory allocated at 0x00000000
+0.076462 - Process 1: start monitor output
+0.230473 - Process 1: end monitor output
+0.230699 - Process 1: start hard drive input on HDD 0
+1.430706 - Process 1: end hard drive input on HDD 0
+1.431195 - Process 1: start projector output on PROJ 0
+12.431220 - Process 1: end projector output on PROJ 0
+12.431316 - Process 1: allocating memory
+12.471330 - Process 1: memory allocated at 0x00000080
+12.471723 - Process 1: start projector output on PROJ 1
+15.771748 - Process 1: end projector output on PROJ 1
+15.771841 - Process 1: allocating memory
+15.801854 - Process 1: memory allocated at 0x00000100
+15.802324 - Process 1: start hard drive input on HDD 1
+16.852351 - Process 1: end hard drive input on HDD 1
+16.852910 - Process 1: start hard drive output on HDD 0
+17.152936 - Process 1: end hard drive output on HDD 0
+17.153549 - Process 1: start hard drive output on HDD 1
+19.553575 - Process 1: end hard drive output on HDD 1
+19.553670 - Process 1: allocating memory
+19.593683 - Process 1: memory allocated at 0x00000180
+19.593687 - Process 1: start processing action
+19.623689 - Process 1: end processing action
+19.624043 - Process 1: start projector output on PROJ 2
+21.824069 - Process 1: end projector output on PROJ 2
+21.824155 - Process 1: start memory blocking
+21.884168 - Process 1: end memory blocking
+22.904716 - Process 1: start memory blocking
+22.944721 - Process 1: end memory blocking
+22.944735 - Process 1: start processing action
+22.969738 - Process 1: end processing action
+22.969742 - Process 1: start processing action
+22.994746 - Process 1: end processing action
+22.995198 - Process 1: start hard drive output on HDD 0
+23.895213 - Process 1: end hard drive output on HDD 0
+23.895302 - Process 1: start processing action
+23.985309 - Process 1: end processing action
+23.985317 - OS: removing process 1
+23.985322 - Simulator program ending
